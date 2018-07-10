@@ -4,15 +4,18 @@
 
 1. 函数的函数声明、函数表达式、匿名函数
 
-    function log（args） {    //函数声明
+    //函数声明
+    function log（args） {    
       console.log(agrs);
     }
 
-    const log = function(args)    //函数表达式
+    //函数表达式
+    const log = function(args)    
       console.log(args);
     }
 
-    function（args）{        //匿名函数
+    //匿名函数
+    function（args）{        
       console.log(agrs);
     }
 
